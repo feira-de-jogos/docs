@@ -1,5 +1,8 @@
 # Sobre a Feira de Jogos
 
+> **Alerta**
+Documentação agora mantida em [feira-de-jogos/docs](https://github.com/feira-de-jogos/feira-de-jogos/tree/main/docs).
+
 As boas ideias não surgem em escritórios fechados, em horário comercial, sob a luz quase asséptica de lâmpadas fluorescentes.
 
 ![Matrix](imagens/matrix.jpeg)
